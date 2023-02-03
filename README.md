@@ -8,7 +8,7 @@
 ## Lab Question Answers
 
 Answer for Question 1: 
-When I added 50% loss the UDP wasn't able to keep p with me as I entered in numbers at a relatively fast pace. 
+When I added 50% loss the UDP wasn't able to keep p with me as I entered in numbers at a relatively fast pace. This is because it has a limited bandwidhth and certain limitations. 
 
 Answer for question 2: 
 The relability of the TCP also went down when I added the 50% loss as it only responded to about half of my inputs. 
